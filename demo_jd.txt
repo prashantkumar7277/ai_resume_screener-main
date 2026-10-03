@@ -1,0 +1,31 @@
+Senior Python Backend Developer | FinZen Technologies (Fintech Startup)
+Location: Bengaluru, India (Hybrid)
+Experience: 4-6 years
+
+About the Role:
+We are building the next-generation payment infrastructure for India's
+growing fintech ecosystem. We need a seasoned Python backend developer
+to architect and own our core payment APIs.
+
+Key Responsibilities:
+- Design and build high-throughput REST APIs using FastAPI (async Python)
+- Manage PostgreSQL databases with query optimisation and indexing
+- Implement Redis caching layers for sub-10ms response times
+- Containerise services with Docker and deploy on AWS (EC2, ECS, S3)
+- Build CI/CD pipelines using GitHub Actions
+- Collaborate with frontend and mobile teams via documented APIs
+
+Required Skills:
+- Python 3.10+ (must have 4+ years)
+- FastAPI or Django REST Framework
+- PostgreSQL (schema design, migrations)
+- Redis, Docker, AWS
+- REST API design principles
+- Git, code review, async programming
+
+Nice to Have:
+- Kafka / message queues
+- Kubernetes
+- Prior fintech or high-scale startup experience
+
+Compensation: 18-28 LPA depending on experience
